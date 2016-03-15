@@ -8,7 +8,7 @@ JsonResult
 
 * Class name: JsonResult
 * Namespace: 
-* Parent class: [SYSTEM\LOG\JsonResult](SYSTEM-LOG-JsonResult.md)
+* Parent class: [SYSTEM\LOG\JsonResult](SYSTEM-LOG-JsonResult)
 
 
 
@@ -48,7 +48,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult.md)
+* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult)
 
 
 #### Arguments
@@ -68,7 +68,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult.md)
+* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult)
 
 
 #### Arguments
@@ -86,7 +86,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult.md)
+* This method is defined by [SYSTEM\LOG\AbstractResult](SYSTEM-LOG-AbstractResult)
 
 
 
@@ -101,7 +101,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\JsonResult](SYSTEM-LOG-JsonResult.md)
+* This method is defined by [SYSTEM\LOG\JsonResult](SYSTEM-LOG-JsonResult)
 
 
 

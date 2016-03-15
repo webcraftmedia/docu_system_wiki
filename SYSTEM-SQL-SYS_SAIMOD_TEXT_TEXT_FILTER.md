@@ -8,7 +8,7 @@ SYSTEM\SQL\SYS_SAIMOD_TEXT_TEXT_FILTER
 
 * Class name: SYS_SAIMOD_TEXT_TEXT_FILTER
 * Namespace: SYSTEM\SQL
-* Parent class: [SYSTEM\DB\QP](SYSTEM-DB-QP.md)
+* Parent class: [SYSTEM\DB\QP](SYSTEM-DB-QP)
 
 
 
@@ -58,7 +58,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP.md)
+* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP)
 
 
 #### Arguments
@@ -77,7 +77,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP.md)
+* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP)
 
 
 #### Arguments
@@ -96,7 +96,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP.md)
+* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP)
 
 
 #### Arguments
@@ -115,7 +115,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP.md)
+* This method is defined by [SYSTEM\DB\QP](SYSTEM-DB-QP)
 
 
 #### Arguments

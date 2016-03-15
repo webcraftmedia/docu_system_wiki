@@ -8,7 +8,7 @@ SYSTEM\LOG\TranslatableError
 
 * Class name: TranslatableError
 * Namespace: SYSTEM\LOG
-* Parent class: [SYSTEM\LOG\ERROR](SYSTEM-LOG-ERROR.md)
+* Parent class: [SYSTEM\LOG\ERROR](SYSTEM-LOG-ERROR)
 
 
 
@@ -53,7 +53,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION.md)
+* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION)
 
 
 #### Arguments

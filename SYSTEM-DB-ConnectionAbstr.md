@@ -33,7 +33,7 @@ Methods
 
 
 #### Arguments
-* $dbinfo **[SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo.md)**
+* $dbinfo **[SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo)**
 
 
 

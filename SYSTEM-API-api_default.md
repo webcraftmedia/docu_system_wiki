@@ -9,7 +9,7 @@ SYSTEM\API\api_default
 * Class name: api_default
 * Namespace: SYSTEM\API
 * This is an **abstract** class
-* Parent class: [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* Parent class: [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 
@@ -127,7 +127,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 
@@ -142,7 +142,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -161,7 +161,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -180,7 +180,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -199,7 +199,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -217,7 +217,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -235,7 +235,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -253,7 +253,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -272,7 +272,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system.md)
+* This method is defined by [SYSTEM\API\api_system](SYSTEM-API-api_system)
 
 
 #### Arguments
@@ -291,7 +291,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments
@@ -311,7 +311,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 
@@ -326,7 +326,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 
@@ -341,7 +341,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments
@@ -359,7 +359,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments

@@ -9,7 +9,7 @@ LIB\lib_jscss
 * Class name: lib_jscss
 * Namespace: LIB
 * This is an **abstract** class
-* Parent class: [LIB\lib](LIB-lib.md)
+* Parent class: [LIB\lib](LIB-lib)
 
 
 
@@ -59,7 +59,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -74,7 +74,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -89,7 +89,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -104,7 +104,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 

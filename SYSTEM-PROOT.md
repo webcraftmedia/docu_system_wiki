@@ -8,7 +8,7 @@ SYSTEM\PROOT
 
 * Class name: PROOT
 * Namespace: SYSTEM
-* Parent class: [SYSTEM\PATH](SYSTEM-PATH.md)
+* Parent class: [SYSTEM\PATH](SYSTEM-PATH)
 
 
 
@@ -64,11 +64,11 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\PATH](SYSTEM-PATH.md)
+* This method is defined by [SYSTEM\PATH](SYSTEM-PATH)
 
 
 #### Arguments
-* $basepath **[SYSTEM\PATH](SYSTEM-PATH.md)**
+* $basepath **[SYSTEM\PATH](SYSTEM-PATH)**
 * $path **mixed**
 * $subpath **mixed**
 
@@ -83,7 +83,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\PATH](SYSTEM-PATH.md)
+* This method is defined by [SYSTEM\PATH](SYSTEM-PATH)
 
 
 
@@ -97,7 +97,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\PATH](SYSTEM-PATH.md)
+* This method is defined by [SYSTEM\PATH](SYSTEM-PATH)
 
 
 #### Arguments

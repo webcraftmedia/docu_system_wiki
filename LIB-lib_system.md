@@ -8,7 +8,7 @@ LIB\lib_system
 
 * Class name: lib_system
 * Namespace: LIB
-* Parent class: [LIB\lib_jscss](LIB-lib_jscss.md)
+* Parent class: [LIB\lib_jscss](LIB-lib_jscss)
 
 
 
@@ -44,7 +44,7 @@ Methods
 
 * Visibility: **protected**
 * This method is **static**.
-* This method is defined by [LIB\lib_jscss](LIB-lib_jscss.md)
+* This method is defined by [LIB\lib_jscss](LIB-lib_jscss)
 
 
 
@@ -59,7 +59,7 @@ Methods
 
 * Visibility: **protected**
 * This method is **static**.
-* This method is defined by [LIB\lib_jscss](LIB-lib_jscss.md)
+* This method is defined by [LIB\lib_jscss](LIB-lib_jscss)
 
 
 
@@ -74,7 +74,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -89,7 +89,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -104,7 +104,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -119,7 +119,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 

@@ -8,7 +8,7 @@ SYSTEM\DB\ResultPostgres
 
 * Class name: ResultPostgres
 * Namespace: SYSTEM\DB
-* Parent class: [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* Parent class: [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 
@@ -95,7 +95,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 
@@ -110,7 +110,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 
@@ -125,7 +125,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 
@@ -140,7 +140,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 #### Arguments
@@ -158,7 +158,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result.md)
+* This method is defined by [SYSTEM\DB\Result](SYSTEM-DB-Result)
 
 
 #### Arguments

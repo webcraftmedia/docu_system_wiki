@@ -66,7 +66,7 @@ Methods
 
 
 #### Arguments
-* $basepath **[SYSTEM\PATH](SYSTEM-PATH.md)**
+* $basepath **[SYSTEM\PATH](SYSTEM-PATH)**
 * $path **mixed**
 * $subpath **mixed**
 

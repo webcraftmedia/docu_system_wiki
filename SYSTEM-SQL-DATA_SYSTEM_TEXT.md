@@ -8,7 +8,7 @@ SYSTEM\SQL\DATA_SYSTEM_TEXT
 
 * Class name: DATA_SYSTEM_TEXT
 * Namespace: SYSTEM\SQL
-* Parent class: [SYSTEM\DB\QI](SYSTEM-DB-QI.md)
+* Parent class: [SYSTEM\DB\QI](SYSTEM-DB-QI)
 
 
 
@@ -72,7 +72,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QI](SYSTEM-DB-QI.md)
+* This method is defined by [SYSTEM\DB\QI](SYSTEM-DB-QI)
 
 
 #### Arguments

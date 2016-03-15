@@ -8,7 +8,7 @@ SYSTEM\LOG\error_handler_dbwriter
 
 * Class name: error_handler_dbwriter
 * Namespace: SYSTEM\LOG
-* Parent class: [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler.md)
+* Parent class: [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler)
 
 
 
@@ -30,7 +30,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler.md)
+* This method is defined by [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler)
 
 
 #### Arguments
@@ -49,7 +49,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler.md)
+* This method is defined by [SYSTEM\LOG\error_handler](SYSTEM-LOG-error_handler)
 
 
 

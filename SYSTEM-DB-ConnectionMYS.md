@@ -8,7 +8,7 @@ SYSTEM\DB\ConnectionMYS
 
 * Class name: ConnectionMYS
 * Namespace: SYSTEM\DB
-* Parent class: [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* Parent class: [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 
@@ -43,11 +43,11 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 #### Arguments
-* $dbinfo **[SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo.md)**
+* $dbinfo **[SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo)**
 
 
 
@@ -61,7 +61,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 
@@ -76,7 +76,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 #### Arguments
@@ -96,7 +96,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 
@@ -111,7 +111,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 #### Arguments
@@ -129,7 +129,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 
@@ -144,7 +144,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 
@@ -159,7 +159,7 @@ Methods
 
 * Visibility: **protected**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr.md)
+* This method is defined by [SYSTEM\DB\ConnectionAbstr](SYSTEM-DB-ConnectionAbstr)
 
 
 #### Arguments

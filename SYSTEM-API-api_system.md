@@ -8,7 +8,7 @@ SYSTEM\API\api_system
 
 * Class name: api_system
 * Namespace: SYSTEM\API
-* Parent class: [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* Parent class: [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 
@@ -185,7 +185,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments
@@ -205,7 +205,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 
@@ -220,7 +220,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 
@@ -235,7 +235,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments
@@ -253,7 +253,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login.md)
+* This method is defined by [SYSTEM\API\api_login](SYSTEM-API-api_login)
 
 
 #### Arguments

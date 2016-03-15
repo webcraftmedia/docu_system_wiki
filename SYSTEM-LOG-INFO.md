@@ -8,7 +8,7 @@ SYSTEM\LOG\INFO
 
 * Class name: INFO
 * Namespace: SYSTEM\LOG
-* Parent class: [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION.md)
+* Parent class: [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION)
 
 
 
@@ -53,7 +53,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION.md)
+* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION)
 
 
 #### Arguments

@@ -8,7 +8,7 @@ LIB\lib_textillate
 
 * Class name: lib_textillate
 * Namespace: LIB
-* Parent class: [LIB\lib_js](LIB-lib_js.md)
+* Parent class: [LIB\lib_js](LIB-lib_js)
 
 
 
@@ -44,7 +44,7 @@ Methods
 
 * Visibility: **protected**
 * This method is **static**.
-* This method is defined by [LIB\lib_js](LIB-lib_js.md)
+* This method is defined by [LIB\lib_js](LIB-lib_js)
 
 
 
@@ -59,7 +59,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -74,7 +74,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -89,7 +89,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -104,7 +104,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 

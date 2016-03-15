@@ -8,7 +8,7 @@ SYSTEM\SQL\SYS_SAIMOD_CACHE_COUNT
 
 * Class name: SYS_SAIMOD_CACHE_COUNT
 * Namespace: SYSTEM\SQL
-* Parent class: [SYSTEM\DB\QQ](SYSTEM-DB-QQ.md)
+* Parent class: [SYSTEM\DB\QQ](SYSTEM-DB-QQ)
 
 
 
@@ -72,7 +72,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ.md)
+* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ)
 
 
 #### Arguments
@@ -90,7 +90,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ.md)
+* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ)
 
 
 #### Arguments
@@ -108,7 +108,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ.md)
+* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ)
 
 
 #### Arguments
@@ -126,7 +126,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ.md)
+* This method is defined by [SYSTEM\DB\QQ](SYSTEM-DB-QQ)
 
 
 #### Arguments

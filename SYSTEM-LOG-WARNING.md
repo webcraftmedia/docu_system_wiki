@@ -8,7 +8,7 @@ SYSTEM\LOG\WARNING
 
 * Class name: WARNING
 * Namespace: SYSTEM\LOG
-* Parent class: [SYSTEM\LOG\TODO](SYSTEM-LOG-TODO.md)
+* Parent class: [SYSTEM\LOG\TODO](SYSTEM-LOG-TODO)
 
 
 
@@ -53,7 +53,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION.md)
+* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION)
 
 
 #### Arguments

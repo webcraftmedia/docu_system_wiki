@@ -8,7 +8,7 @@ SYSTEM\SAI\saigui
 
 * Class name: saigui
 * Namespace: SYSTEM\SAI
-* Parent class: [SYSTEM\PAGE\Page](SYSTEM-PAGE-Page.md)
+* Parent class: [SYSTEM\PAGE\Page](SYSTEM-PAGE-Page)
 
 
 
@@ -40,7 +40,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\PAGE\Page](SYSTEM-PAGE-Page.md)
+* This method is defined by [SYSTEM\PAGE\Page](SYSTEM-PAGE-Page)
 
 
 

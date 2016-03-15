@@ -8,7 +8,7 @@ SYSTEM\LOG\CRON
 
 * Class name: CRON
 * Namespace: SYSTEM\LOG
-* Parent class: [SYSTEM\LOG\INFO](SYSTEM-LOG-INFO.md)
+* Parent class: [SYSTEM\LOG\INFO](SYSTEM-LOG-INFO)
 
 
 
@@ -53,7 +53,7 @@ Methods
 
 
 * Visibility: **public**
-* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION.md)
+* This method is defined by [SYSTEM\LOG\SYSTEM_EXCEPTION](SYSTEM-LOG-SYSTEM_EXCEPTION)
 
 
 #### Arguments

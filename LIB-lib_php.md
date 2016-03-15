@@ -9,7 +9,7 @@ LIB\lib_php
 * Class name: lib_php
 * Namespace: LIB
 * This is an **abstract** class
-* Parent class: [LIB\lib](LIB-lib.md)
+* Parent class: [LIB\lib](LIB-lib)
 
 
 
@@ -45,7 +45,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -60,7 +60,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -75,7 +75,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 
@@ -90,7 +90,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [LIB\lib](LIB-lib.md)
+* This method is defined by [LIB\lib](LIB-lib)
 
 
 

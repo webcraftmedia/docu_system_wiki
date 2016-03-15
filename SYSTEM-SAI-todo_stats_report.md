@@ -8,7 +8,7 @@ SYSTEM\SAI\todo_stats_report
 
 * Class name: todo_stats_report
 * Namespace: SYSTEM\SAI
-* Parent class: [SYSTEM\SAI\todo_stats](SYSTEM-SAI-todo_stats.md)
+* Parent class: [SYSTEM\SAI\todo_stats](SYSTEM-SAI-todo_stats)
 
 
 
@@ -30,7 +30,7 @@ Methods
 
 * Visibility: **public**
 * This method is **static**.
-* This method is defined by [SYSTEM\SAI\todo_stats](SYSTEM-SAI-todo_stats.md)
+* This method is defined by [SYSTEM\SAI\todo_stats](SYSTEM-SAI-todo_stats)
 
 
 

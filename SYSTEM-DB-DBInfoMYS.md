@@ -8,7 +8,7 @@ SYSTEM\DB\DBInfoMYS
 
 * Class name: DBInfoMYS
 * Namespace: SYSTEM\DB
-* Parent class: [SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo.md)
+* Parent class: [SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo)
 
 
 
@@ -87,7 +87,7 @@ Methods
 
 * Visibility: **public**
 * This method is **abstract**.
-* This method is defined by [SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo.md)
+* This method is defined by [SYSTEM\DB\DBInfo](SYSTEM-DB-DBInfo)
 
 
 #### Arguments
